@@ -1,5 +1,11 @@
 ehre are the instaructions:
 
+<<<<<<< HEAD
 sdfjnsdvjksdfnjknsfksrbnfgjkgjksfgsfsdfg
 
 sflgk
+=======
+sdfjnsdvjksdfnjknsfksrbnfgjkgjksfgsfsdfgvdferferferferf
+erferferferfrfrfrfrf
+frf
+>>>>>>> d3abee364b953de92b9d9913ecaf3ccc5e9ece5a
